@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 2px solid red ;
+    width: 80%;
+    margin: auto;
+    background-color:rgb(62, 57, 57) ;
+    border-radius: 20px;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+}
+
+#marvel{
+    color: red
+}
+
+#img-div{
+         text-align: center;
+    
+}
+
+#date{
+    text-align: center;
+}
+
+#title{font-size: 80px;
+        text-align: center;
+    
+
+}
+#image{width: 400px;
+        border-radius: 20px;
+}
+#span1{
+    color: red;
+}
+#info{
+  
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify
+}
+#footer{
+    margin: 2rem;
+    padding: 2rem;
+   
+   
+}
+#link{
+    text-decoration: none;
+    color: aliceblue;
+    border: 2px;
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: brown;
+}
